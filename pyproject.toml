@@ -1,6 +1,6 @@
 [project]
 name = "assomdevgit-api"
-version = "0.1.0"
+version = "0.220"
 description = "API"
 authors = [
     {name = "assomdevgit", email = "assomggm@gmail.com"},
